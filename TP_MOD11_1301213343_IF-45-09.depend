@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670177877 source:d:\semester 3\nyobain\tp_mod11_1301213343_if-45-09\main.cpp
+	<iostream>
+	"queue.h"
+
+1670171113 source:d:\semester 3\nyobain\tp_mod11_1301213343_if-45-09\queue.cpp
+	"queue.h"
+
+1670171113 d:\semester 3\nyobain\tp_mod11_1301213343_if-45-09\queue.h
+	<iostream>
+
