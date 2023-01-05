@@ -4,4 +4,4 @@ Tugas Pendahuluan STD
 My Basic Skill:
 - Melukis
 - Bermain alat musik
-- Memasak 
+- Memasak makanan western
